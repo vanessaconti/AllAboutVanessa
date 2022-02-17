@@ -7,8 +7,9 @@
 
 
 
-const vanessa = {
+	const vanessa = {
     👩🏻‍🦱 Pronouns: ["her", "she"],
+	
     ❤️ Influences: {
        👨‍👩‍👧‍👦 amazingFamily: [
             "My Parents", 
