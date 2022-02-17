@@ -29,7 +29,6 @@
     },
     ⁉️ Quotes: {
         Muhammad Ali: "Life isn't about finding yourself, life is about creating yourself!"
-    }
-
-}# AllAboutVanessa
+    },
+    }# AllAboutVanessa
 
