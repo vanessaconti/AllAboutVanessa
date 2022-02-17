@@ -1,7 +1,11 @@
 🙋🏻‍♀️ Hey, I’m @VanessaConti
+
 ❤️ I love so many things... movies. tv shows, crochet, music, and tech.
+
 👩🏻‍💻 I’m a fellow learning full stack web development.
+
 🤓I’m looking forward to learning everything I can and embracing this new path!
+
 💻 My email is vanessaconti@pursuit.org
 
 
